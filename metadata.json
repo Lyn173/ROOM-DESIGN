@@ -1,0 +1,5 @@
+{
+  "name": "Viral Room Intro AI",
+  "description": "Upload a sample room tour and a new video to generate a viral, TikTok-style introduction script.",
+  "requestFramePermissions": []
+}
